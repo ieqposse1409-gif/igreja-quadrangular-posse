@@ -66,25 +66,8 @@
   </section>
 
   <!-- Seção Fotos -->
-  <section class="p-8 max-w-4xl mx-auto">
-   
-    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-      <div class="bg-gray-800 rounded-xl h-48 flex items-center justify-center">
-        <img src="Posse Nova.png" alt="Logo Igreja Quadrangular Posse" class="h-48 object-contain rounded-xl hover:scale-105 transition-transform duration-300">
-      </div>
-      <div class="bg-gray-800 rounded-xl h-48 flex items-center justify-center">
-        <img src="0c7688e0-a15a-4e6b-8f41-f69d8d1e1698.png" alt="Foto interna da Igreja Quadrangular Posse" class="h-48 object-contain rounded-xl hover:scale-105 transition-transform duration-300">
-      </div>
-     
-       
-   
 
-  <!-- Rodapé -->
  2025 Igreja Quadrangular Posse - Todos os direitos reservados</p>
  
 
-  <!-- Botão flutuante do WhatsApp -->
-  <a href="https://wa.me/5521992730207" target="_blank" 
-     class="fixed bottom-6 right-6 bg-green-500 hover:bg-green-600 text-white rounded-full w-16 h-16 flex items-center justify-center shadow-lg transition-colors duration-300">
-    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="w-8 h-8" viewBox="0 0 24 24">
-  
+ 
