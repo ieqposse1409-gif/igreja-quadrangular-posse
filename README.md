@@ -76,14 +76,12 @@
         <img src="0c7688e0-a15a-4e6b-8f41-f69d8d1e1698.png" alt="Foto interna da Igreja Quadrangular Posse" class="h-48 object-contain rounded-xl hover:scale-105 transition-transform duration-300">
       </div>
       <div class="bg-gray-800 rounded-xl h-48 flex items-center justify-center">
-        <img src="quadrangular_posse_qr.png" alt="QR Code Instagram Quadrangular Posse" class="h-48 object-contain rounded-xl hover:scale-105 transition-transform duration-300">
-      </div>
+       
     </div>
   </section>
 
   <!-- Rodapé -->
-  <footer class="bg-black text-white text-center p-4 mt-8 border-t border-gray-700">
-    <p>&copy; 2025 Igreja Quadrangular Posse - Todos os direitos reservados</p>
+ 2025 Igreja Quadrangular Posse - Todos os direitos reservados</p>
   </footer>
 
   <!-- Botão flutuante do WhatsApp -->
