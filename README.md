@@ -67,7 +67,7 @@
 
   <!-- Seção Fotos -->
   <section class="p-8 max-w-4xl mx-auto">
-    <h2 class="text-2xl font-semibold mb-4 text-yellow-400">Nossa Igreja</h2>
+   
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
       <div class="bg-gray-800 rounded-xl h-48 flex items-center justify-center">
         <img src="Posse Nova.png" alt="Logo Igreja Quadrangular Posse" class="h-48 object-contain rounded-xl hover:scale-105 transition-transform duration-300">
@@ -81,7 +81,7 @@
 
   <!-- Rodapé -->
  2025 Igreja Quadrangular Posse - Todos os direitos reservados</p>
-  </footer>
+ 
 
   <!-- Botão flutuante do WhatsApp -->
   <a href="https://wa.me/5521992730207" target="_blank" 
