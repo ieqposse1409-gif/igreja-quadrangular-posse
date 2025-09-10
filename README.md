@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Igreja do Evangelho Quadrangular Posse - fé, amor e transformação em Jesus Cristo.">
   Igreja Quadrangular Posse
-  <script src="https://cdn.tailwindcss.com"></script>
+ 
 </head>
 <body class="bg-black text-white">
 
