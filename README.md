@@ -75,10 +75,9 @@
       <div class="bg-gray-800 rounded-xl h-48 flex items-center justify-center">
         <img src="0c7688e0-a15a-4e6b-8f41-f69d8d1e1698.png" alt="Foto interna da Igreja Quadrangular Posse" class="h-48 object-contain rounded-xl hover:scale-105 transition-transform duration-300">
       </div>
-      <div class="bg-gray-800 rounded-xl h-48 flex items-center justify-center">
+     
        
-    </div>
-  </section>
+   
 
   <!-- Rodapé -->
  2025 Igreja Quadrangular Posse - Todos os direitos reservados</p>
@@ -88,4 +87,4 @@
   <a href="https://wa.me/5521992730207" target="_blank" 
      class="fixed bottom-6 right-6 bg-green-500 hover:bg-green-600 text-white rounded-full w-16 h-16 flex items-center justify-center shadow-lg transition-colors duration-300">
     <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="w-8 h-8" viewBox="0 0 24 24">
-      <path d="M20.52 3.48a11.93 11.93 0 00-16.91 0 11.95 11.95 0 000 16.92L2 22l3.63-1.91a11.95 11.95 0 0016.89-16.61zm-9.49 18.26c-3.23 0-6.32-1.25-8.61-3.53a11.92 11.92 0 010-16.91 11.92 11.92 0 0116.91 0 11.92 11.92 0 010 16.91 11.92 11.92 0 01-8.3 3.53zM17.65 15.64l-1.17-.34c-.31-.09-.67-.15-1.03-.55s-.65-.79-.73-1.09l-.34-1.17c-.06-.23-.24-.36-.48-.36-.24 0-.48.06-.73.11l-1.27.3c-.21.0
+  
