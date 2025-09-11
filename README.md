@@ -10,7 +10,7 @@
 <body class="bg-black text-white">
 
   <!-- Header -->
-  <header class="p-6 text-center shadow-lg bg-black">
+  <header class="p-6 text-center shadow-lg bg-gray">
     <img src="Posse Nova.png" alt="Logo Igreja Quadrangular Posse" class="mx-auto w-32 mb-4">
     <h1 class="text-3xl font-bold">Igreja do Evangelho Quadrangular - Posse</h1>
     <p class="text-lg mt-2">Um lugar de fé, amor e transformação</p>
@@ -28,7 +28,7 @@
   </section>
 
   <!-- Seção Horários -->
-  <section class="p-8 max-w-4xl mx-auto bg-white-950 shadow-md rounded-2xl my-6">
+  <section class="p-8 max-w-4xl mx-auto bg-gray-500 shadow-md rounded-2xl my-6">
     <h2 class="text-2xl font-semibold mb-4 text-yellow-400">Horários de Culto e Reuniões</h2>
     <ul class="list-disc list-inside space-y-2">
       <li>Domingo - Culto de Ensino: 18h30 às 19h30</li>
@@ -41,7 +41,7 @@
 
   <!-- Seção Ministérios -->
   <section class="p-8 max-w-4xl mx-auto">
-    <h2 class="text-2xl font-semibold mb-4 text-yellow-400">Nossos Ministérios</h2>
+    <h2 class="text-2xl font-semibold mb-4 text-gray-400">Nossos Ministérios</h2>
     <ul class="list-disc list-inside space-y-2">
       <li>Ministério de Jovens</li>
       <li>Ministério Infantil</li>
