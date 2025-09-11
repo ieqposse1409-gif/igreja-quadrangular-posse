@@ -18,17 +18,17 @@
 
   <!-- Seção Quem Somos -->
   <section class="p-8 max-w-4xl mx-auto">
-    <h2 class="text-2xl font-semibold mb-4 text-yellow-400">Quem Somos</h2>
+    <h2 class="text-2xl font-semibold mb-4 text-yellow-500">Quem Somos</h2>
     <p class="leading-relaxed mb-4">
       A Igreja do Evangelho Quadrangular Posse é uma comunidade cristã comprometida em levar a mensagem de salvação, esperança e transformação através de Jesus Cristo. Nosso propósito é acolher vidas, fortalecer famílias e formar discípulos, vivendo a fé com amor, comunhão e serviço ao próximo.
     </p>
-    <blockquote class="border-l-4 border-yellow-400 pl-4 italic text-gray-300">
+    <blockquote class="border-l-4 border-yellow-550 pl-4 italic text-gray-400">
       “Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.” (João 3:16)
     </blockquote>
   </section>
 
   <!-- Seção Horários -->
-  <section class="p-8 max-w-4xl mx-auto bg-gray-900 shadow-md rounded-2xl my-6">
+  <section class="p-8 max-w-4xl mx-auto bg-white-950 shadow-md rounded-2xl my-6">
     <h2 class="text-2xl font-semibold mb-4 text-yellow-400">Horários de Culto e Reuniões</h2>
     <ul class="list-disc list-inside space-y-2">
       <li>Domingo - Culto de Ensino: 18h30 às 19h30</li>
@@ -53,7 +53,7 @@
   </section>
 
   <!-- Seção Contato -->
-  <section class="p-8 max-w-4xl mx-auto bg-gray-900 shadow-md rounded-2xl my-6">
+  <section class="p-8 max-w-4xl mx-auto bg-gray-950 shadow-md rounded-2xl my-6">
     <h2 class="text-2xl font-semibold mb-4 text-yellow-400">Contato</h2>
     <p class="mb-2">📍 Endereço: Rua Quissamã, 210 - Posse, Nova Iguaçu - RJ</p>
     <p class="mb-2">📞 Telefone: (21) 99273-0207</p>
